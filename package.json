@@ -1,0 +1,36 @@
+{
+    "name": "php-symfony-dev-extension-pack",
+    "displayName": "PHP Symfony Essential Extension Pack",
+    "description": "Extension pack for php and symfony development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "publisher": "kkcode",
+    "extensionPack": [ 
+        "alefragnani.project-manager", 
+        "formulahendry.auto-rename-tag",
+        "naumovs.color-highlight",
+        "alexdima.copy-relative-path",
+        "mikestead.dotenv",
+        "bmewburn.vscode-intelephense-client",
+        "codezombiech.gitignore",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "wayou.vscode-todo-highlight",
+        "ikappas.composer",
+        "mehedidracula.php-namespace-resolver",
+        "thenouillet.symfony-vscode",
+        "cronos87.symfony-snippets",
+        "whatwedo.twig",
+        "visualstudioexptteam.vscodeintellicode",
+        "redhat.vscode-yaml",
+        "phproberto.vscode-php-getters-setters",
+        "ntb.theme-symfony-dark",
+        "k--kato.intellij-idea-keybindings",
+        "davidanson.vscode-markdownlint"
+    ]
+}
