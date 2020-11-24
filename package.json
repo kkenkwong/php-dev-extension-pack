@@ -1,5 +1,5 @@
 {
-    "name": "php-symfony-dev-extension-pack",
+    "name": "symfony-essential-extension-pack",
     "displayName": "Symfony Essential Extension Pack",
     "description": "Extension pack for symfony development",
     "version": "0.0.1",
@@ -10,6 +10,7 @@
     "categories": [
         "Extension Packs"
     ],
+    "icon": "images/icon.png",
     "publisher": "kkcode",
     "extensionPack": [ 
         "alefragnani.project-manager", 
