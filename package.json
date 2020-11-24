@@ -2,11 +2,14 @@
     "name": "symfony-essential-extension-pack",
     "displayName": "Symfony Essential Extension Pack",
     "description": "Extension pack for symfony development",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "engines": {
         "vscode": "^1.51.0"
     },
-    "repository": "https://github.com/kkenkwong/php-dev-extension-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kkenkwong/php-dev-extension-pack.git"
+      },
     "categories": [
         "Extension Packs"
     ],
