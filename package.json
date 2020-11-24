@@ -1,11 +1,12 @@
 {
     "name": "php-symfony-dev-extension-pack",
-    "displayName": "PHP Symfony Essential Extension Pack",
-    "description": "Extension pack for php and symfony development",
+    "displayName": "Symfony Essential Extension Pack",
+    "description": "Extension pack for symfony development",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.51.0"
     },
+    "repository": "https://github.com/kkenkwong/php-dev-extension-pack",
     "categories": [
         "Extension Packs"
     ],

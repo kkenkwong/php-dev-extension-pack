@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "php-dev-extension-pack" extension pack will be documented in this file.
+## [2020-11-24]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- first release
